@@ -1,2 +1,1 @@
-# Wish-Birthday-Garima
-Happy Birthday
+# Wish-Birthday
